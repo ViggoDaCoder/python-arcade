@@ -246,7 +246,7 @@ class IntroView(arcade.View):
 
         # Draw more text
         arcade.draw_text(
-            "Press any key to start the game",
+            "velkommen til det ydre rum",
             self.window.width / 2,
             self.window.height / 2 - 75,
             arcade.color.WHITE,
